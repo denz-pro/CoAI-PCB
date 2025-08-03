@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+*.pyc
+__pycache__/
+azure_vision_api_project/__pycache__
+vision_api/__pycache__
+
+# Django
+db.sqlite3
+
+# Logs
+*.log
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# Git
+*.swp
+*.swo

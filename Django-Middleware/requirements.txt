@@ -1,0 +1,8 @@
+django
+requests
+azure-cognitiveservices-vision-customvision
+azure-cognitiveservices-speech
+azure-storage-blob
+django-cors-headers
+numpy
+opencv-python
